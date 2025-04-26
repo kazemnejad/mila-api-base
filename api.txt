@@ -1,1 +1,1 @@
-login-2.server.mila.quebec
+cn-g021.server.mila.quebec
