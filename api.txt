@@ -1,1 +1,1 @@
-cn-g026.server.mila.quebec
+cn-g010.server.mila.quebec
